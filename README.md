@@ -18,8 +18,11 @@ This web page is about a coding qize application. this web application has ten q
 
 # github repository link
 
+https://github.com/kusalaindika1/coding-quiz-application
+
 
 
 
 
 # github deploy link
+https://kusalaindika1.github.io/coding-quiz-application/
